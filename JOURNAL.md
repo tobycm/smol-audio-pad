@@ -42,3 +42,9 @@ nvm no neopixels, just swd pads
 ![pcb3](assets/pcb3.png)
 ![pcb3_3d1](assets/pcb3_3d1.png)
 ![pcb3_3d2](assets/pcb3_3d2.png)
+
+7. Case designing
+
+![cad1](assets/cad1.png)
+
+good enough, i left enough of the plus sign to fit the keycaps
