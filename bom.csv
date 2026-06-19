@@ -1,8 +1,12 @@
-Description,Quantity,Part #,Unit price,Extended Price USD,Product Link
-LCSC Shipping,,LCSC Shipping,13.16,13.16,https://www.lcsc.com/
-LCSC Handling Fee,,LCSC Handling Fee,3,3,https://www.lcsc.com/
-PCB,,PCB,6.1,6.1,https://jlcpcb.com/
-PCBA,,PCBA,25.44,25.44,https://jlcpcb.com/
-JLCPCB Shipping,,JLCPCB Shipping,8.53,8.53,https://jlcpcb.com/
+Description,Quantity,Part #,Unit price,Extended Price CAD,Product Link
+XIAO NRF52840,1,102010448,16.18,16.18,https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/102010448/16652893
+ENCODER INCRE QUAD HORIZN PC PIN,1,PEC12R-4220F-S0024,3.20,3.20,https://www.digikey.ca/en/products/detail/bourns-inc/PEC12R-4220F-S0024/4499653
+1.5V~10V LITHIUM BATTERY 1 SOT-2,1,DW01A,0.04,0.04,https://www.digikey.ca/en/products/detail/shenzhen-slkormicro-semicon-co-ltd/DW01A/28143000
+DUAL N-CHANNEL ENHANCEMENT MODE,1,FS8205A,0.57,0.57,https://www.digikey.ca/en/products/detail/evvo/FS8205A/26220994
+CONN HEADER R/A 2POS 2MM,1,S2B-PH-K-S,0.16,0.16,https://www.digikey.ca/en/products/detail/jst-sales-america-inc/S2B-PH-K-S/926626
+RES 100 OHM 1% 1/10W 0603,1,RC0603FR-07100RL,0.04,0.04,https://www.digikey.ca/en/products/detail/yageo/RC0603FR-07100RL/726888
+3.7V Lipo Battery Ph2.0 Plug Rechargeable,1,1005008218024646,11.00,11.00,https://www.aliexpress.com/item/1005008218024646.html
+RES 1K OHM 1% 1/10W 0603,1,,0.04,0.04,
 ,,,,,
-,,Total:,,62.84,
+,,,,,
+,,Total:,,31.22,
